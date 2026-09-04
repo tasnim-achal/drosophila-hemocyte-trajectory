@@ -1,6 +1,17 @@
+# Exclude heavy single-cell dataset objects
 *.h5ad
 *.rds
 *.loom
+*.h5
+*.mtx
+*.tsv.gz
+
+# Exclude Colab system files and python cache
+.config/
+sample_data/
 .ipynb_checkpoints/
-Untitled0.ipynb
 __pycache__/
+*.pyc
+
+# Exclude draft/scratch notebooks
+Untitled0.ipynb
