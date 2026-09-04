@@ -143,6 +143,8 @@ The raw sequencing data and count matrices for this project are publicly availab
 
 
 ---
+## Project data & large file 
+https://drive.google.com/drive/folders/14gA-Pld5_mvEm5yrPSIQbylycN7qIa_R?usp=drive_link
 
 ## 💻 Running the Pipeline
 
@@ -189,3 +191,7 @@ If you use this codebase or documentation in your research, please cite the prim
 ## 📜 License
 
 This project is open-source and distributed under the terms of the [LICENSE](https://www.google.com/search?q=LICENSE) included in this repository.
+
+```
+
+```
