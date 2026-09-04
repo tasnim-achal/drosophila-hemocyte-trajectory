@@ -1,0 +1,6 @@
+*.h5ad
+*.rds
+*.loom
+.ipynb_checkpoints/
+Untitled0.ipynb
+__pycache__/
